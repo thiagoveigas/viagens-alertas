@@ -1,0 +1,8 @@
+{
+  "atualizadoEm": "2026-07-02T17:35:21Z",
+  "status": "erro",
+  "fontes": {"lisboa-ou-porto": false, "lisboa-ou-madri": false},
+  "erro": "Coleta falhou: o proxy de rede deste ambiente bloqueou o host passagensimperdiveis.com.br (403 no CONNECT / policy denial), impossibilitando qualquer chamada à API para as 2 fontes. Nenhum dado foi inventado; nenhuma oferta pôde ser coletada.",
+  "ofertas": [],
+  "destaques": []
+}
